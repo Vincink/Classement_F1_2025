@@ -1,0 +1,112 @@
+{
+  "saison": 2025,
+  "date_mise_a_jour": "2025-10-14",
+  "source": "Formula1.com",
+  "classement_pilotes": {
+    "rang_1": {
+      "pilote": "Oscar Piastri",
+      "points": 336,
+      "ecurie": "McLaren"
+    },
+    "rang_2": {
+      "pilote": "Lando Norris",
+      "points": 314,
+      "ecurie": "McLaren"
+    },
+    "rang_3": {
+      "pilote": "Max Verstappen",
+      "points": 273,
+      "ecurie": "Red Bull Racing"
+    },
+    "rang_4": {
+      "pilote": "George Russell",
+      "points": 237,
+      "ecurie": "Mercedes"
+    },
+    "rang_5": {
+      "pilote": "Charles Leclerc",
+      "points": 173,
+      "ecurie": "Ferrari"
+    },
+    "rang_6": {
+      "pilote": "Lewis Hamilton",
+      "points": 125,
+      "ecurie": "Ferrari"
+    },
+    "rang_7": {
+      "pilote": "Kimi Antonelli",
+      "points": 88,
+      "ecurie": "Mercedes"
+    },
+    "rang_8": {
+      "pilote": "Alexander Albon",
+      "points": 70,
+      "ecurie": "Williams"
+    },
+    "rang_9": {
+      "pilote": "Isack Hadjar",
+      "points": 39,
+      "ecurie": "Racing Bulls"
+    },
+    "rang_10": {
+      "pilote": "Nico Hülkenberg",
+      "points": 37,
+      "ecurie": "Kick Sauber"
+    },
+    "rang_11": {
+      "pilote": "Fernando Alonso",
+      "points": 36,
+      "ecurie": "Aston Martin"
+    },
+    "rang_12": {
+      "pilote": "Carlos Sainz",
+      "points": 32,
+      "ecurie": "Williams"
+    },
+    "rang_13": {
+      "pilote": "Lance Stroll",
+      "points": 32,
+      "ecurie": "Aston Martin"
+    },
+    "rang_14": {
+      "pilote": "Liam Lawson",
+      "points": 30,
+      "ecurie": "Racing Bulls"
+    },
+    "rang_15": {
+      "pilote": "Esteban Ocon",
+      "points": 28,
+      "ecurie": "Haas"
+    },
+    "rang_16": {
+      "pilote": "Pierre Gasly",
+      "points": 20,
+      "ecurie": "Alpine"
+    },
+    "rang_17": {
+      "pilote": "Yuki Tsunoda",
+      "points": 20,
+      "ecurie": "Red Bull Racing"
+    },
+    "rang_18": {
+      "pilote": "Gabriel Bortoleto",
+      "points": 18,
+      "ecurie": "Kick Sauber"
+    },
+    "rang_19": {
+      "pilote": "Oliver Bearman",
+      "points": 18,
+      "ecurie": "Haas"
+    },
+    "rang_20": {
+      "pilote": "Franco Colapinto",
+      "points": 0,
+      "ecurie": "Alpine"
+    },
+    "rang_21": {
+      "pilote": "Jack Doohan",
+      "points": 0,
+      "ecurie": "Alpine"
+    }
+  }
+}
