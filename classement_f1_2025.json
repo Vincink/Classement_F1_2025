@@ -1,0 +1,88 @@
+{
+  "classement_2025": {
+    "Oscar Piastri": {
+      "points": 336,
+      "rang": 1
+    },
+    "Lando Norris": {
+      "points": 314,
+      "rang": 2
+    },
+    "Max Verstappen": {
+      "points": 273,
+      "rang": 3
+    },
+    "George Russell": {
+      "points": 237,
+      "rang": 4
+    },
+    "Charles Leclerc": {
+      "points": 173,
+      "rang": 5
+    },
+    "Lewis Hamilton": {
+      "points": 125,
+      "rang": 6
+    },
+    "Kimi Antonelli": {
+      "points": 88,
+      "rang": 7
+    },
+    "Alexander Albon": {
+      "points": 70,
+      "rang": 8
+    },
+    "Isack Hadjar": {
+      "points": 39,
+      "rang": 9
+    },
+    "Nico Hülkenberg": {
+      "points": 37,
+      "rang": 10
+    },
+    "Fernando Alonso": {
+      "points": 36,
+      "rang": 11
+    },
+    "Carlos Sainz": {
+      "points": 32,
+      "rang": 12
+    },
+    "Lance Stroll": {
+      "points": 32,
+      "rang": 13
+    },
+    "Liam Lawson": {
+      "points": 30,
+      "rang": 14
+    },
+    "Esteban Ocon": {
+      "points": 28,
+      "rang": 15
+    },
+    "Pierre Gasly": {
+      "points": 20,
+      "rang": 16
+    },
+    "Yuki Tsunoda": {
+      "points": 20,
+      "rang": 17
+    },
+    "Gabriel Bortoleto": {
+      "points": 18,
+      "rang": 18
+    },
+    "Oliver Bearman": {
+      "points": 18,
+      "rang": 19
+    },
+    "Franco Colapinto": {
+      "points": 0,
+      "rang": 20
+    },
+    "Jack Doohan": {
+      "points": 0,
+      "rang": 21
+    }
+  }
+}
